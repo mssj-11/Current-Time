@@ -1,6 +1,6 @@
 #   Current Time
 
-##  Using THML, CSS & Javascript
+##  Using HTML, CSS & Javascript
 
 <p aling="center">
     <img src="./view/view.gif" alt="">
